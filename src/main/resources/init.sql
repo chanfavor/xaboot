@@ -29,8 +29,9 @@ CREATE TABLE `order_info` (
 ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4;
 
 
-===================================================
-
+------------------------------------
+-------------分隔符-----------------
+------------------------------------
 /*
 Navicat MySQL Data Transfer
 
